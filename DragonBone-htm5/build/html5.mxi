@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<macromedia-extension name="html5" version="2.2.2" type="command">
+
+	<author name="loading"/>
+	<products>
+
+		<product name="Flash" version="11" primary="true"/>
+
+	</products>
+	<description>
+		<![CDATA[
+]]>
+	</description>
+	<ui-access>
+		<![CDATA[
+]]>
+	</ui-access>
+	<license-agreement>
+		<![CDATA[
+]]>
+	</license-agreement>
+
+	<files>
+		<file source="html5/skeleton.jsfl" destination="$flash/WindowSWF/html5"/>
+
+		<file source="html5.swf" destination="$flash/WindowSWF"/>
+	</files>
+
+</macromedia-extension>

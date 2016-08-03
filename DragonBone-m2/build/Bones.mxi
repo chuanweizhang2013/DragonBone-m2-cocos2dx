@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<macromedia-extension name="Bones" version="1.0.8" type="command">
+
+	<author name="Bones"/>
+	<products>
+
+		<product name="Flash" version="10" primary="true"/>
+
+	</products>
+	<description>
+		<![CDATA[
+]]>
+	</description>
+	<ui-access>
+		<![CDATA[
+]]>
+	</ui-access>
+	<license-agreement>
+		<![CDATA[
+]]>
+	</license-agreement>
+
+	<files>
+		<file source="Bones/skeleton.jsfl" destination="$flash/WindowSWF/Bones"/>
+
+		<file source="Bones.swf" destination="$flash/WindowSWF"/>
+	</files>
+
+</macromedia-extension>
